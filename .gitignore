@@ -1,1 +1,8 @@
-"" 
+#忽略test目录下的txt
+#/test/*.txt
+#忽略a.txt文件
+/a.txt
+#忽略除了test目录下的txt文件
+#!/test/*.txt
+#忽略test目录下的所有文件
+/test/*
